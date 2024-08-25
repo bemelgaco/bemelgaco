@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there Bernardo Melgaço 👋
+![Header](./img-header.png)
 <!--
 **bemelgaco/bemelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
