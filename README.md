@@ -6,6 +6,15 @@
 Here are some ideas to get you started:
 
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bemelgaco&them=github_dark"/> -->
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/bernardo-melga%C3%A7o-11218a322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:bemelgaco13galo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://wa.me/5531999737772" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="https://github.com/bemelgaco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
+<a href="https://www.instagram.com/bemelgaco/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+
+</div> 
 <div>
  
  <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
