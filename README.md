@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
  
-GitHub Stats:
+##  GitHub Stats:
 
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bemelgaco&theme=github_dark"/>
 </td>
@@ -40,7 +40,7 @@ GitHub Stats:
 
 ----
 
- Principais Habilidades: 
+## Principais Habilidades: 
  
  <div style="display: inline_block"><br>
  <img aling="center" alt="BE-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -53,7 +53,7 @@ GitHub Stats:
 
  ----
 
- Ferramentas:
+ ## Ferramentas:
  <div style="display: inline_block"><br>
  <img aling="center" alt="BE-VSCODE" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
  <img aling="center" alt="BE-REPLIT" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg"> 
@@ -66,7 +66,16 @@ GitHub Stats:
 </div>
 
 ----
+<div aling = "center">
 
 
-
-
+```text
+  __  __ ______ _      _____          _____ ____  
+ |  \/  |  ____| |    / ____|   /\   / ____/ __ \ 
+ | \  / | |__  | |   | |  __   /  \ | |   | |  | |
+ | |\/| |  __| | |   | | |_ | / /\ \| |   | |  | |
+ | |  | | |____| |___| |__| |/ ____ \ |___| |__| |
+ |_|  |_|______|______\_____/_/    \_\_____\____/ 
+                                       )_)        
+                                                 
+````
